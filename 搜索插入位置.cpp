@@ -56,8 +56,6 @@ int main()
     v.push_back(7);
     v.push_back(7);
     v.push_back(8);
-    v.push_back(8);
-    v.push_back(10);
     v.push_back(12);
     int ret = searchleft(v,9);
     int ret2 = searchright(v, 9);
